@@ -1,6 +1,6 @@
 # Infra-ARM-Openstack
 - ARM CPU기반 오픈스택 설치 및 운영 스터디를 위한 저장소입니다.
-- 설치 가이드 및 프로젝트 진행 사항은 [Wiki](https://github.com/CCCR-Edge-ARM/Infra-ARM-Openstack/wiki)에 작성됩니다.
+- 설치 가이드 및 프로젝트 진행 내용은 [Wiki](https://github.com/CCCR-Edge-ARM/Infra-ARM-Openstack/wiki)에 작성됩니다.
 
 ## Table of Contents
 - [Home](https://github.com/CCCR-Edge-ARM/Infra-ARM-Openstack/wiki)
